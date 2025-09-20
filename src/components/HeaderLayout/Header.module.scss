@@ -1,0 +1,50 @@
+.header {
+  background-color: #fff;
+  box-shadow: 0 6px 15px -2px rgba(16, 24, 40, 0.08);
+  height: 68px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 24px;
+}
+
+.headerLeft {
+  font-size: 1.6rem;
+  color: #000000;
+  opacity: 0.45;
+}
+
+.headerRight {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.headerDescription {
+  margin: 0 24px 0 12px;
+}
+
+.headerAdmin {
+  color: #000000;
+  opacity: 0.88;
+  font-size: 1.4rem;
+  font-weight: 600;
+}
+
+.headerTitle {
+  color: #000000;
+  opacity: 0.65;
+  font-size: 1.4rem;
+}
+
+.headerIcon {
+  margin-right: 24px;
+  cursor: pointer;
+}
+
+.btnRefresh {
+  background-color: #52c41a;
+  cursor: pointer;
+  color: #fff;
+  border: 1px solid #d9d9d9;
+}

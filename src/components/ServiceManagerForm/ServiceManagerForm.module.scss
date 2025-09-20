@@ -1,0 +1,11 @@
+.statusIcon {
+  display: flex;
+  align-content: center;
+  border: 1px solid orange;
+}
+
+.statusLabel {
+  position: relative;
+  top: -4px;
+  margin-left: 4px;
+}
